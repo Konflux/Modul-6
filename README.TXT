@@ -10,3 +10,6 @@ VERSION or DATE: 16.01.17
 HOW TO START THIS PROJECT: Create an instance of the Lottery class
 AUTHORS: Marius Norli
 USER INSTRUCTIONS:
+KOMMENTAR: Prosjekter burde dokumenteres ut ifra javadoc standarden slik at de er forståelige og i samme
+format som alt annet. Koden i seg selv burde være forståelig, men når det føles passelig burde man bruke kommentarer.
+Alt av parametre og variabler burde ha logiske navn.
