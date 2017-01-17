@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Lottery()
+comment1.params=
+comment1.target=java.lang.String\ Draw()
+comment1.text=\r\n\ Draws\ a\ random\ user\ from\ the\ the\ database\r\n\ @return\ Returns\ the\ name\ of\ the\ winner\ as\ a\ String\r\n
+comment2.params=name
+comment2.target=void\ addEntry(java.lang.String)
+comment2.text=\r\n\ Allows\ you\ to\ manually\ enter\ a\ new\ user\ into\ the\ lottery\r\n\ @param\ name\ The\ name\ of\ the\ user\ you\ wish\ to\ add\r\n
+comment3.params=
+comment3.target=int\ getSize()
+comment3.text=\r\n\ Returns\ the\ size\ of\ the\ lottery\ list\r\n\ @return\ Returns\ the\ size\ of\ the\ list\ as\ an\ Integer\r\n
+numComments=4
